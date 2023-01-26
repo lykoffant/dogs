@@ -22,7 +22,9 @@
     "dogs",
     "pet-project",
     "single-page-app",
-    "svelte"
+    "svelte",
+    "daisyui",
+    "heroicons"
   ],
   "author": "Anton Lykov",
   "bugs": {
