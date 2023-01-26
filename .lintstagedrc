@@ -1,0 +1,6 @@
+{
+  "*.{svelte,html,postcss,js,cjs,mjs,ts,cts,mts}": [
+    "npm run check",
+    "npm run lint"
+  ]
+}
