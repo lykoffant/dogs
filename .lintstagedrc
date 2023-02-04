@@ -1,6 +1,4 @@
 {
-  "*.{svelte,html,postcss,js,cjs,mjs,ts,cts,mts}": [
-    "npm run check",
-    "npm run lint"
-  ]
+  "*.{svelte,html,postcss,js,cjs,mjs,ts,cts,mts}": "prettier --write",
+  "*.{svelte,js,ts}": "eslint --fix"
 }
